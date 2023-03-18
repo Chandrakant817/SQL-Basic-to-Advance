@@ -4,6 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/69152112/209432786-71c70dca-2bd2-4413-99bd-8c55aeb14209.png)
 
+![image](https://user-images.githubusercontent.com/69152112/226136774-37a40863-c9e4-4ada-b5d8-6354f8aeab5e.png)
+
+
 ### 𝗧𝘆𝗽𝗲𝘀 𝗼𝗳 𝗦𝗤𝗟 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀
 
 📌 𝐃𝐃𝐋 - Used to create, modify and delete database objects like tables, databases, and views but not data.
