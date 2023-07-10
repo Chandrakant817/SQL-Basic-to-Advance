@@ -1,5 +1,7 @@
 # SQL-Queries
 
+SQL (Structured Query Language) is a widely used programming language designed for managing relational databases. It provides a standardized way to interact with databases, allowing users to create, retrieve, update, and delete data stored in tables. SQL offers powerful features such as querying data using various conditions, aggregating data, joining multiple tables, and defining relationships between tables through primary and foreign keys. It is known for its declarative nature, where users specify what data they want, and the database engine determines the most efficient way to retrieve it.
+
 ### Flow Chart of SQL Commands
 
 ![image](https://user-images.githubusercontent.com/69152112/209432786-71c70dca-2bd2-4413-99bd-8c55aeb14209.png)
